@@ -1,13 +1,5 @@
 # Vectox-1.1
-VICTOR — Vector, Intelligence, Calculations, Trajectory, Orientation & Robotics
-A beginner-friendly physics and mathematics assistant.
-
-Requirements: Python 3.10+ (standard library only)
-Run: python victor.py
-
-This is a calculation-based assistant, not a trained language model. It uses
-validated numerical tools and a menu. All robotics movement is simulated;
-it does not control real hardware.
+VECTOX — Vector, Intelligence, Calculations, Trajectory, Orientation eXpert
 """
 
 import math
