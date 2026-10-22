@@ -6,7 +6,7 @@ import math
 import statistics
 
 
-APP_NAME = "VICTOR"
+APP_NAME = "VECTOX"
 EPSILON = 1e-12
 
 
